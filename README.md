@@ -5,7 +5,7 @@ basic Matrix Calculator written in C language for CMD\Terminal
 #-----------------COMMANDS:---------------------------------------------------------------------------------------------------------------------
 
      <read_mat MATRIX_NAME,SCALAR_NAME1,SCALAR_NAME2...>    -read matrix elements from the standart input
-     <print_mat MATRIX_NAME>                                -read matrix elements to the  standart output
+     <print_mat MATRIX_NAME>                                -print matrix elements to the  standart output
      <add_mat MATRIX1_NAME,MATRIX2_NAME,RESULT_MATRIX_NAME> -add two matrices and save the result in the third one
      <sub_mat MATRIX1_NAME,MATRIX2_NAME,RESULT_MATRIX_NAME> -subtract two matrices and save the result in the third one
      <mul_mat MATRIX1_NAME,MATRIX2_NAME,RESULT_MATRIX_NAME> -multiply two matrices and save the result in the third one
