@@ -2,7 +2,7 @@
 basic Matrix Calculator written in C language for CMD\Terminal
 
 
-#-----------------COMMANDS:---------------------------------------------------------------------------------------------------------------------
+#COMMANDS:
 
      <read_mat MATRIX_NAME,SCALAR_NAME1,SCALAR_NAME2...>    -read matrix elements from the standart input
      <print_mat MATRIX_NAME>                                -print matrix elements to the  standart output
