@@ -144,6 +144,9 @@ int main()
 
 void print_help()
 {
+  printf("-----------------AVAILABLE MATRICES:------------------------------------\n");
+  printf("            MAT_A, MAT_B, MAT_C, MAT_D, MAT_E, MAT_F \n");
+  printf("\n");
   printf("-----------------COMMANDS:------------------------------------\n");
   printf("         <read_mat MATRIX_NAME,SCALAR_NAME1,SCALAR_NAME2...>\n");     printf("-read matrix elements from the standart input\n");printf("\n");
   printf("         <print_mat MATRIX_NAME>\n");                                 printf("-read matrix elements to the  standart output\n");printf("\n");
